@@ -1,0 +1,17 @@
+ID,Student Name,Email,Subject,Marks
+001,John Smith,johnsmith@email.com,Mathematics,57
+002,John Smith,johnsmith@email.com,Chemistry,65
+003,Jane Doe,janedoe@email.com,Chemistry,85
+003,Jane Doe,janedoe@email.com,Physics,75
+004,Jane Wilson,janewilson@email.com,Chemistry,93
+001,John Smith,johnsmith@email.com,Mathematics,84
+004,Jane Wilson,janiewilson@email.com,Mathematics,73
+001,John Smith,johnsmith@email.com,Chemistry,57
+005,Jack White,jackwhite@email.com,Physics,84
+004,Jane Wilson,janewilson@email.com,Physics,87
+001,John Smith,johnsmith@email.com,Physics,74
+003,Jane Doe,janedoe@email.com,Mathematics,72
+005,Jack White,jackwhite@email.com,Chemistry,82
+004,Jane Williams,janewilson@email.com,Physics,82
+005,Jack Smith,jackwhite@email.com,Mathematics,92
+004,Jane Wilson,janewilson@email.com,Physics,73
