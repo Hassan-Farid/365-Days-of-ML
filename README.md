@@ -10,6 +10,7 @@ Starting today, I'm going to learn/review one ML topic everyday for the next yea
 7. Day 7-9 - [Identifying and Dealing with Fully and Partial Duplicate Values](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Identifying%20and%20Dealing%20with%20Fully%20and%20Partial%20Duplicate%20Values.ipynb)
 8. Day 10-16 - [Deep Dive into Near Duplicates and Record Linkage](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Near%20Duplicates%20and%20Record%20Linkage.ipynb)
 9. Day 17 - [Applications of Near Duplicates in Entity Similarity](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Applications%20of%20Near%20Duplicates%20in%20Entity%20Similarity.ipynb)
+10. Day 18 - [Plagiarism Detection](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Plagiarism%20Detection.ipynb)
 
 # License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
