@@ -11,6 +11,8 @@ Starting today, I'm going to learn/review one ML topic everyday for the next yea
 8. Day 10-16 - [Deep Dive into Near Duplicates and Record Linkage](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Near%20Duplicates%20and%20Record%20Linkage.ipynb)
 9. Day 17 - [Applications of Near Duplicates in Entity Similarity](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Applications%20of%20Near%20Duplicates%20in%20Entity%20Similarity.ipynb)
 10. Day 18 - [Plagiarism Detection](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Plagiarism%20Detection.ipynb)
+11. Day 19-20 - [Recommender Systems](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Recommender%20Systems.ipynb)
+12. Day 21-24 - [Content Oriented Recommender Systems](https://github.com/Hassan-Farid/365-Days-of-ML/blob/main/Content%20Oriented%20Recommender%20Systems.ipynb)
 
 # License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
